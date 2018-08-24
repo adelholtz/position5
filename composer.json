@@ -1,0 +1,19 @@
+{
+    "name": "adelholtz/position5",
+    "description": "php helper library",
+    "autoload": {
+        "psr-0" : {
+            "Position5" : "src/"
+        }
+    },
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BenjaminKrammel",
+            "email": "benjaminkrammel@internetx.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
