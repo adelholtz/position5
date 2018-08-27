@@ -5,7 +5,7 @@ namespace Position5;
 /**
  *
  */
-class Position5
+class p5
 {
     public static function getFromArray($arr, $key, $default = '')
     {
