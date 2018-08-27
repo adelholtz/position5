@@ -9,8 +9,8 @@ class p5
 {
     public static function getFromArray($arr, $key, $default = '')
     {
-        if (!empty($validatedData['fileMode'])) {
-            return $validatedData['fileMode'];
+        if (!empty($arr['fileMode'])) {
+            return $arr['fileMode'];
         }
         return $default;
     }
