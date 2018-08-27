@@ -1,6 +1,11 @@
 {
     "name": "adelholtz/position5",
     "description": "php helper library",
+    "version": "dev",
+    "dist": {
+       "url": "https://github.com/adelholtz/position5.git",
+       "type": "git"
+   },
     "autoload": {
         "psr-0" : {
             "Position5" : "src/"
