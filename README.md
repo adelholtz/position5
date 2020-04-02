@@ -1,3 +1,6 @@
+# Fool use this instead!! => https://laravel.com/docs/7.x/helpers#method-array-get
+
+
 # position5
 php helper library mainly for private use
 
